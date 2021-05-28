@@ -426,7 +426,7 @@ p {
 /*===== NAVBAR =====*/
 
     .darkm {
-  color: white !important;
+  color: #f6f4d2 !important;
   background-color: #222831 !important;
 }
 
@@ -533,7 +533,7 @@ background-color: #222831;
     padding: 5px 12px; } 
     .darkm .navbar-collapse {
     background-color: #222831;
-        color:white;
+        color:#f6f4d2;
   }
   }
 
@@ -551,7 +551,7 @@ background-color: #222831;
     padding: 5px 12px; } 
 .darkm .navbar-collapse {
     background-color: #222831;
-        color:white;
+        color:#f6f4d2;
   }
   }
 
