@@ -995,6 +995,56 @@ background-color: #222831;
   color: #95c0d3; 
 }
 
+.single_experience i {
+  font-size: 60px;
+  line-height: 30px;
+  color: #0081a7;
+  transition: all 0.3s ease-out 0s;
+}
+
+@media (max-width: 767px) {
+  .single_experience i {
+    font-size: 60px;
+    line-height: 45px;
+  }
+}
+
+.single_experience .achieve_title {
+  color: #002e41;
+  margin-top: 15px;
+  font-size: 33px;
+  font-weight: 600;
+  transition: all 0.3s ease-out 0s;
+}
+
+@media (max-width: 767px) {
+  .single_experience .achieve_title {
+    font-size: 24px;
+  }
+}
+
+.single_experience p {
+  margin-top: 20px;
+  font-size: large;
+  text-align: start;
+}
+
+.single_experience i:hover {
+  color: #01184a; 
+}
+
+.single_experience h4:hover {
+  color: #01184a; 
+}
+
+.darkm .single_experience i:hover {
+  color: #95c0d3; 
+}
+
+.darkm .single_experience h4:hover {
+  color: #95c0d3; 
+}
+
 /*===========================
       05.PORTFOLIO css 
 ===========================*/
